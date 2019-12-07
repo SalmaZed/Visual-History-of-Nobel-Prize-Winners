@@ -7,4 +7,5 @@ The questions we are trying to address are the following:
 3. Investigating the correlation between the average age of winners at the time of winning and the years.
 4. Investigating the ratio between prizes that are shared and those that are not shared in each category.
 5. Investigating the ratio of individual and organizational winners among categories.
-The following url contains presentation slides: 
+
+The following url contains presentation slides: https://drive.google.com/open?id=1gtzoM72rBAhvuBTYGgb4W8iaSr9OELL5
